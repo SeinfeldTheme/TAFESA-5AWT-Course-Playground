@@ -2,6 +2,6 @@
   <head>
   </head>
   <body>
-  <p>BEES</p>
+  <marquee><p>BEES</p></marquee>
   </body>
 </html>
